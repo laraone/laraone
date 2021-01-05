@@ -9,7 +9,7 @@
     "@riophae/vue-treeselect": "^0.4.0",
     "animate.css": "^3.7.2",
     "autosize": "^4.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "compressorjs": "^1.0.5",
     "date-fns": "2.9.0",
     "element-ui": "2.4.11",

@@ -15,7 +15,7 @@
     "element-ui": "2.4.11",
     "jquery": ">=3.5.0",
     "laravel-vue-pagination": "^2.1.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "marked": "^0.8.2",
     "prismjs": "^1.21.0",
     "sass": "^1.26.5",

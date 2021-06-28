@@ -17,7 +17,7 @@
     "laravel-vue-pagination": "^2.1.0",
     "lodash": "^4.17.20",
     "marked": "^0.8.2",
-    "prismjs": "^1.21.0",
+    "prismjs": "^1.24.0",
     "sass": "^1.26.5",
     "tinycolor2": "^1.4.1",
     "vee-validate": "^2.0.3",
